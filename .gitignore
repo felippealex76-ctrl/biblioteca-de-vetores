@@ -1,0 +1,17 @@
+# Build (CMake)
+/build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binários / objetos
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# IDE (CLion / JetBrains)
+.idea/
